@@ -27,12 +27,19 @@ The treated training data is already available at [traindata.csv](traindata.csv)
 2. Go to [train.ipynb](train.ipynb)
 
 3. If you do not have the necessary extension installed, install them with the following commands. You might want to run them to check if you have everything installed.
+
     ```pip install pandas```
+
     ```pip install sklearn```
+
     ```pip install matplotlib```
+
     ```pip install numpy```
+
     ```pip install seaborn```
+
     ```pip install numpy```
+    
     ```pip install tabulate```
 
 4. Run the notebook. Reccomended python kernel version is 3.9 or above 
