@@ -17,6 +17,7 @@ This repo consists of two important files:
      ```pip install tabulate```
 
 4. Run the notebook. All cells should run consecutively and produce results, and export them to a file named traindata.csv.
+![run notebook image](run.png "How to run notebook")
 
 The treated training data is already available at [traindata.csv](traindata.csv)
 
@@ -39,9 +40,10 @@ The treated training data is already available at [traindata.csv](traindata.csv)
     ```pip install seaborn```
 
     ```pip install numpy```
-    
+
     ```pip install tabulate```
 
 4. Run the notebook. Reccomended python kernel version is 3.9 or above 
+![run notebook image](run.png "How to run notebook")
 
 Notice that the train.ipynb notebook might take a while to run the model optimization.
